@@ -1,0 +1,54 @@
+﻿{
+  "Carpeting": {
+    "Objects": [ "Room" ],
+    "Sources": [
+      {
+        "Name": "CarpetingGraph.json",
+        "Type": "Graph"
+      }
+    ],
+  "ClipsFactMappings": { "Room": [ "Room" ] }
+  },
+  "Steel General Checks": {
+    "Objects": [ "Steel Analytical Column", "Steel Analytical Beam", "Steel Column to Beam Connection", "Steel Analytical Model" ],
+    "SourceType": "RuleFile",
+    "Sources": [
+      {
+        "Name": "SteelGeneralChecks.clp",
+        "Type": "RuleFile"
+      }
+    ],
+  "ClipsFactMappings": {
+    "AnalyticalBeam": [ "BeamData", "BarData" ],
+    "AnalyticalColumn": [ "ColumnData", "BarData" ],
+    "AnalyticalBar": [ "BarData" ],
+    "AnalyticalBeamColumnConnection": [ "ConnectionData" ],
+    "AnalyticalModel": [ "ModelData" ]
+  }
+  },
+  "Beams Cut": {
+    "Objects": [ "Steel Analytical Column", "Steel Analytical Beam", "Steel Column to Beam Connection", "Steel Analytical Model" ],
+    "SourceType": "RuleFile",
+    "Sources": [
+      {
+        "Name": "BeamCutRules.clp",
+        "Type": "RuleFile"
+      }
+    ],
+    "ClipsFactMappings": {
+      "AnalyticalBeam": [ "BeamData", "BarData" ],
+      "AnalyticalColumn": [ "ColumnData", "BarData" ],
+      "AnalyticalBar": [ "BarData" ]
+    }
+  },
+  "CurtainWallsInstallation": {
+        "Objects": [ "CurtainWall" ],
+    "Sources": [
+      {
+        "Name": "CurtainWallsInstallationGraph.json",
+        "Type": "Graph"
+      }
+    ],
+  "ClipsFactMappings": { "CurtainWall": [ "CurtainWall" ] }
+  }
+}

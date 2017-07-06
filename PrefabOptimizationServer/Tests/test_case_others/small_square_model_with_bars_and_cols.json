@@ -1,0 +1,432 @@
+﻿{
+  "cranes": [
+    {
+      "remove": [
+        "Plane.001_Plane.000",
+        "Plane_Plane.001"
+      ],
+
+      "metadata": {
+        "baseType": "Crane",
+        "type": "TowerCrane",
+        "upVector": "Y",
+        "worldPosition": [ 0, -45, -15 ],
+        "scaling": [ 6, 6, 6 ],
+        "keys": {
+          "mast": "_00trussarray_008_Cylinder.011",
+          "jib": {
+            "id": "_00trussarray_007_Cylinder.010",
+            "luffing": false
+          },
+          "hook": "Cube.001_Cube.002",
+          "trolley": "Cylinder",
+          "ropes": [
+            "Cylinder_023.002_Cylinder.003",
+            "Cylinder_023.001_Cylinder.002"
+          ]
+        },
+
+        "specifications": {
+          "units": "imperial",
+          "limitations": {
+            "max-mast-sections": 2,
+            "mast-section-height": 168.4,
+            "max-capacity": 17635,
+            "max-hook-height": 246.9,
+            "max-hook-radius": 164,
+            "radius-capacity": {
+              "0": 17635,
+              "40": 17635,
+              "50": 17635,
+              "60": 16180,
+              "70": 13710,
+              "80": 11815,
+              "82": 11175,
+              "90": 10010,
+              "98": 9060,
+              "105": 8355,
+              "110": 7825,
+              "115": 7560,
+              "123": 6945,
+              "131": 6415,
+              "139": 5950,
+              "148": 5555,
+              "156": 5180,
+              "164": 4850
+            }
+          },
+
+          "speeds": {
+            "trolley": {
+              "speed": 290,
+              "hp": 10.2,
+              "energy-cost": 7.5
+            },
+
+            "crane": {
+              "speed": 96,
+              "hp": 32.6,
+              "energy-cost": 24
+            },
+
+            "rotation": {
+              "speed": 0.9,
+              "hp": 22.8,
+              "energy-cost": 16.8
+            },
+
+            "hook": {
+              "hp": 108,
+              "energy-cost": 79,
+              "capacity-speed": {
+                "5500": 444,
+                "9300": 276,
+                "13900": 180,
+                "17635": 108
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "modelData": [
+    {
+      "BarType": 0,
+      "StartPoint": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "EndPoint": {
+        "X": 50.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "2", "4", "11", "12", "5", "6" ],
+      "Id": "1",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+      "CenterPoint": {
+        "X": 25.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 0,
+      "StartPoint": {
+        "X": 50.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "EndPoint": {
+        "X": 50.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "1", "3", "9", "10", "11", "12" ],
+      "Id": "2",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+      "CenterPoint": {
+        "X": 50.0,
+        "Y": 25.0,
+        "Z": 50.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 0,
+      "StartPoint": {
+        "X": 0.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "EndPoint": {
+        "X": 50.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "2", "4", "7", "8", "9", "10" ],
+      "Id": "3",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+      "CenterPoint": {
+        "X": 25.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "AssemblyNumber": 0
+
+    },
+  {
+    "BarType": 0,
+    "StartPoint": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 50.0
+    },
+    "EndPoint": {
+      "X": 0.0,
+      "Y": 50.0,
+      "Z": 50.0
+    },
+    "WeightPerFt": 60.0,
+    "Length": 50.0,
+    "ConnectedBars": [ "1", "3", "5", "6", "7", "8" ],
+    "Id": "4",
+    "ObjectType": "Bar",
+    "Weight": 3000.0,
+    "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+    "CenterPoint": {
+      "X": 0.0,
+      "Y": 25.0,
+      "Z": 50.0
+    },
+    "AssemblyNumber": 0
+
+  },
+    {
+      "BarType": 2,
+      "StartPoint": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "EndPoint": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "1", "4", "6" ],
+      "Id": "5",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+      "CenterPoint": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 25.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 2,
+      "StartPoint": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "EndPoint": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 100.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "1", "4", "5" ],
+      "Id": "6",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+      "CenterPoint": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 75.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 2,
+      "StartPoint": {
+        "X": 0.0,
+        "Y": 50.0,
+        "Z": 0.0
+      },
+      "EndPoint": {
+        "X": 0.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "3", "4", "8" ],
+      "Id": "7",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+      "CenterPoint": {
+        "X": 0.0,
+        "Y": 50.0,
+        "Z": 25.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 2,
+      "StartPoint": {
+        "X": 0.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "EndPoint": {
+        "X": 0.0,
+        "Y": 50.0,
+        "Z": 100.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "3", "4", "7" ],
+      "Id": "8",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+      "CenterPoint": {
+        "X": 0.0,
+        "Y": 50.0,
+        "Z": 75.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 2,
+      "StartPoint": {
+        "X": 50.0,
+        "Y": 50.0,
+        "Z": 0.0
+      },
+      "EndPoint": {
+        "X": 50.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "3", "2", "10" ],
+      "Id": "9",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+      "CenterPoint": {
+        "X": 50.0,
+        "Y": 50.0,
+        "Z": 25.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 2,
+      "StartPoint": {
+        "X": 50.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "EndPoint": {
+        "X": 50.0,
+        "Y": 50.0,
+        "Z": 100.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "3", "2", "9" ],
+      "Id": "10",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+      "CenterPoint": {
+        "X": 50.0,
+        "Y": 50.0,
+        "Z": 75.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 2,
+      "StartPoint": {
+        "X": 50.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "EndPoint": {
+        "X": 50.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "1", "2", "12" ],
+      "Id": "11",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+      "CenterPoint": {
+        "X": 50.0,
+        "Y": 0.0,
+        "Z": 25.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 2,
+      "StartPoint": {
+        "X": 50.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "EndPoint": {
+        "X": 50.0,
+        "Y": 0.0,
+        "Z": 100.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "1", "2", "11" ],
+      "Id": "12",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "ConnectedNotGroupedElements": [ ],
+      "CenterPoint": {
+        "X": 50.0,
+        "Y": 0.0,
+        "Z": 75.0
+      },
+      "AssemblyNumber": 0
+
+    }
+
+  ]
+}

@@ -1,0 +1,10 @@
+..\pyswarm\pso.py
+..\pyswarm\__init__.py
+..\pyswarm\__pycache__\pso.cpython-35.pyc
+..\pyswarm\__pycache__\__init__.cpython-35.pyc
+.\
+dependency_links.txt
+PKG-INFO
+requires.txt
+SOURCES.txt
+top_level.txt

@@ -1,0 +1,10 @@
+Conclusion:
+1. The parameter won't influence the results more than 0.5%.
+2. 1 stop per wall is more sensitive to the GA parameter in compare with 2 stop per wall.
+3. The initial point is also palys an important role for the optimization.
+
+To save the computational power:
+The idea parameter is: 
+1. mutation rate: 5%.
+2. generation: 10
+3. iteration for each situation: 3-5.

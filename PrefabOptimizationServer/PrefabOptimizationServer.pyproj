@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>fc21b4ae-534f-4abd-a836-561e85edae10</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>PrefabOptimizationServer.py</StartupFile>
+    <SearchPath>..\..\PrefabCommon\PrefabCommon\;..\..\PrefabCommon\PrefabCommon\Tests\</SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>PrefabOptimizationServer</Name>
+    <RootNamespace>PrefabOptimizationServer</RootNamespace>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
+    <InterpreterId>{596977e0-1c97-4e1d-a834-303480bbfdc0}</InterpreterId>
+    <InterpreterVersion>3.5</InterpreterVersion>
+    <IsWindowsApplication>False</IsWindowsApplication>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AppendPathsOS.py" />
+    <Compile Include="auth_pb2.py" />
+    <Compile Include="EndpointConstants.py" />
+    <Compile Include="EndpointUtils.py" />
+    <Compile Include="Model\AnalyticalCurtainWall.py" />
+    <Compile Include="Model\AnalyticalMullion.py" />
+    <Compile Include="Model\AnalyticalPanel.py" />
+    <Compile Include="Model\BLObject.py" />
+    <Compile Include="Model\BLStructuralObject.py" />
+    <Compile Include="Model\Task.py" />
+    <Compile Include="NLPDataProcessing\__init__.py" />
+    <Compile Include="Optimization\Clustering\KMeansBasedBarsDivision.py" />
+    <Compile Include="Optimization\Clustering\__init__.py" />
+    <Compile Include="Optimization\DataStructures\CraneData.py" />
+    <Compile Include="Optimization\DataStructures\__init__.py" />
+    <Compile Include="Optimization\Order\BarDependencyChecker.py" />
+    <Compile Include="BLGeometry\BoundingStructures.py" />
+    <Compile Include="CLIPSWrapper\CLIPSCommonStructures.py" />
+    <Compile Include="CLIPSWrapper\PrefabCLIPSResultsParser.py" />
+    <Compile Include="CLIPSWrapper\PrefabCLIPSProcessor.py" />
+    <Compile Include="CLIPSWrapper\PrefabCLIPSWrapper.py" />
+    <Compile Include="BLGeometry\__init__.py" />
+    <Compile Include="KBDataManagement\KBRulesLoader.py" />
+    <Compile Include="KBDataManagement\TradesByObjectChecker.py" />
+    <Compile Include="Model\AnalyticalBeamColumnConnection.py" />
+    <Compile Include="Model\BLRoom.py" />
+    <Compile Include="Optimization\Order\ConstructionOrdering.py" />
+    <Compile Include="Optimization\DataStructures\TowerCraneData.py" />
+    <Compile Include="Optimization\Order\PanelConstructionOrdering.py" />
+    <Compile Include="Optimization\Order\PanelDependencyChecker.py" />
+    <Compile Include="Optimization\Utils\GATools.py" />
+    <Compile Include="BLGeometry\GeometryUtils.py" />
+    <Compile Include="Model\CLIPSTransform\BLClipsTransformOptions.py" />
+    <Compile Include="Model\CLIPSTransform\__init__.py" />
+    <Compile Include="Model\ModelConstants.py" />
+    <Compile Include="Optimization\Order\__init__.py" />
+    <Compile Include="Optimization\Positions\__init__.py" />
+    <Compile Include="Optimization\Utils\__init__.py" />
+    <Compile Include="Optimization\__init__.py" />
+    <Compile Include="optimization_pb2.py" />
+    <Compile Include="Parsers\UtilsModelParse.py" />
+    <Compile Include="Parsers\__init__.py" />
+    <Compile Include="Model\SupportingObject.py" />
+    <Compile Include="Model\__init__.py" />
+    <Compile Include="NLPDataProcessing\NLPGraphConstants.py" />
+    <Compile Include="NLPDataProcessing\NLPGraphProcessingUtils.py" />
+    <Compile Include="NLPDataProcessing\NLPGraphToCLIPSMappingStructures.py" />
+    <Compile Include="NLPDataProcessing\NLPResultGraphParser.py" />
+    <Compile Include="Optimization\Positions\CranePosition.py" />
+    <Compile Include="Optimization\Positions\SupplyRegionPosition.py" />
+    <Compile Include="Optimization\DataStructures\SiteData.py" />
+    <Compile Include="Optimization\DataStructures\MobileCraneData.py" />
+    <Compile Include="Optimization\Positions\PrefabCranePositionOptimizer.py" />
+    <Compile Include="BLGeometry\PrefabGeometry.py" />
+    <Compile Include="PrefabOptimizationServer.py" />
+    <Compile Include="Model\AnalyticalBar.py" />
+    <Compile Include="Model\AnalyticalBeam.py" />
+    <Compile Include="Model\AnalyticalColumn.py" />
+    <Compile Include="Model\AnalyticalModel.py" />
+    <Compile Include="Model\BarToElementsRelationships.py" />
+    <Compile Include="Model\ProjectModel.py" />
+    <Compile Include="Model\SteelSectionInfo.py" />
+    <Compile Include="Model\SteelMaterial.py" />
+    <Compile Include="Parsers\AdvanceSteelModelParser.py" />
+    <Compile Include="Parsers\RevitModelParser.py" />
+    <Compile Include="Parsers\TeklaModelParser.py" />
+    <Compile Include="Tests\clips_test.py" />
+    <Compile Include="Tests\cranepos_one_small_square.py" />
+    <Compile Include="Tests\cycles_in_depencies_graph.py" />
+    <Compile Include="Tests\graph_marks.py" />
+    <Compile Include="Tests\Optimization\Clustering\modified_k_means_for_bars_distribution.py" />
+    <Compile Include="Tests\tekla_parse_test.py" />
+    <Compile Include="Tests\test_small_square_mobile.py" />
+    <Compile Include="Tests\TestLoadingFlow.py" />
+    <Compile Include="Tests\test_bounding_polygons.py" />
+    <Compile Include="Tests\test_CLIPS_graph_parse.py" />
+    <Compile Include="Tests\test_task.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CLIPSWrapper\" />
+    <Folder Include="CLIPSWrapper\Rules\" />
+    <Folder Include="CLIPSWrapper\ObjectsTranslation\" />
+    <Folder Include="Libs\" />
+    <Folder Include="Libs\CLIPS\" />
+    <Folder Include="Model\" />
+    <Folder Include="Model\CLIPSTransform\" />
+    <Folder Include="BLGeometry\" />
+    <Folder Include="Optimization\DataStructures\" />
+    <Folder Include="Optimization\Clustering\" />
+    <Folder Include="Optimization\Utils\" />
+    <Folder Include="Parsers\" />
+    <Folder Include="KBDataManagement\" />
+    <Folder Include="NLPDataProcessing\" />
+    <Folder Include="Optimization\" />
+    <Folder Include="Optimization\Order\" />
+    <Folder Include="Optimization\Positions\" />
+    <Folder Include="Tests\" />
+    <Folder Include="Tests\CLIPS\" />
+    <Folder Include="Tests\Graphs\" />
+    <Folder Include="Tests\Optimization\" />
+    <Folder Include="Tests\Optimization\Clustering\" />
+    <Folder Include="Tests\Parsers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\KnowledgeDatabase\Rules\AnalyticalModelDeftemplates.clp">
+      <Link>CLIPSWrapper\Rules\AnalyticalModelDeftemplates.clp</Link>
+    </Content>
+    <Content Include="..\..\KnowledgeDatabase\Rules\BeamCutRules.clp">
+      <Link>CLIPSWrapper\Rules\BeamCutRules.clp</Link>
+    </Content>
+    <Content Include="..\..\KnowledgeDatabase\Rules\Carpeting.clp">
+      <Link>CLIPSWrapper\Rules\Carpeting.clp</Link>
+    </Content>
+    <Content Include="..\..\KnowledgeDatabase\Rules\CarpetingGraph.json">
+      <Link>CLIPSWrapper\Rules\CarpetingGraph.json</Link>
+    </Content>
+    <Content Include="..\..\KnowledgeDatabase\Rules\Dependencies.json">
+      <Link>CLIPSWrapper\Rules\Dependencies.json</Link>
+    </Content>
+    <Content Include="..\..\KnowledgeDatabase\Rules\LoadOrder.txt">
+      <Link>CLIPSWrapper\Rules\LoadOrder.txt</Link>
+    </Content>
+    <Content Include="..\..\KnowledgeDatabase\Rules\ModelTemplates.clp">
+      <Link>CLIPSWrapper\Rules\ModelTemplates.clp</Link>
+    </Content>
+    <Content Include="..\..\KnowledgeDatabase\Rules\ProcessTemplates.clp">
+      <Link>CLIPSWrapper\Rules\ProcessTemplates.clp</Link>
+    </Content>
+    <Content Include="..\..\KnowledgeDatabase\Rules\ResultStructures.clp">
+      <Link>CLIPSWrapper\Rules\ResultStructures.clp</Link>
+    </Content>
+    <Content Include="..\..\KnowledgeDatabase\Rules\SteelDataTemplates.clp">
+      <Link>CLIPSWrapper\Rules\SteelDataTemplates.clp</Link>
+    </Content>
+    <Content Include="..\..\KnowledgeDatabase\Rules\SteelGeneralChecks.clp">
+      <Link>CLIPSWrapper\Rules\SteelGeneralChecks.clp</Link>
+    </Content>
+    <Content Include="KBDataManagement\NameToInternalName.json" />
+    <Content Include="KBDataManagement\TradeToObjects.json" />
+    <Content Include="Libs\CLIPS\CLIPSDynamic32.dll" />
+    <Content Include="Libs\CLIPS\CLIPSDynamic64.dll" />
+    <Content Include="Libs\CLIPS\libclips64.so" />
+    <Content Include="requirements.txt" />
+    <Content Include="Tests\CLIPS\Sample.facts" />
+    <Content Include="Tests\CLIPS\SteelStructureAnalysis.clp" />
+    <Content Include="Tests\cycle_test3.json" />
+    <Content Include="Tests\cycle_test2.json" />
+    <Content Include="Tests\cycle_test4.json">
+      <Publish>True</Publish>
+    </Content>
+    <Content Include="Tests\Graphs\KB_tasks_graph.json" />
+    <Content Include="Tests\Parsers\analyticalmodel.json" />
+    <Content Include="Tests\small_rectangle_model.json" />
+    <Content Include="Tests\small_square_model_with_bars_and_cols.json" />
+    <Content Include="Tests\small_square_model.json">
+      <Publish>True</Publish>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="env2\">
+      <Id>{fd5fa9c4-196b-4f82-9a9a-f4b58548c863}</Id>
+      <BaseInterpreter>{9a7a9026-48c1-4688-9d5d-e5699d47d074}</BaseInterpreter>
+      <Version>3.5</Version>
+      <Description>env2 (Python 64-bit 3.5)</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <LibraryPath>Lib\</LibraryPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>Amd64</Architecture>
+    </Interpreter>
+    <Interpreter Include="env3\">
+      <Id>{596977e0-1c97-4e1d-a834-303480bbfdc0}</Id>
+      <BaseInterpreter>{9a7a9026-48c1-4688-9d5d-e5699d47d074}</BaseInterpreter>
+      <Version>3.5</Version>
+      <Description>env3 (Python 64-bit 3.5)</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <LibraryPath>Lib\</LibraryPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>Amd64</Architecture>
+    </Interpreter>
+    <Interpreter Include="envnk\">
+      <Id>{00797519-68f8-47cf-baa1-6250e34a0554}</Id>
+      <BaseInterpreter>{9a7a9026-48c1-4688-9d5d-e5699d47d074}</BaseInterpreter>
+      <Version>3.5</Version>
+      <Description>envnk (Python 64-bit 3.5)</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <LibraryPath>Lib\</LibraryPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>Amd64</Architecture>
+    </Interpreter>
+    <Interpreter Include="env\">
+      <Id>{d2d6d96a-e26f-423e-9f0f-f0e4bf7f6622}</Id>
+      <BaseInterpreter>{9a7a9026-48c1-4688-9d5d-e5699d47d074}</BaseInterpreter>
+      <Version>3.5</Version>
+      <Description>env (Python 64-bit 3.5)</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <LibraryPath>Lib\</LibraryPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>Amd64</Architecture>
+    </Interpreter>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <Import Condition="Exists($(PtvsTargetsFile))" Project="$(PtvsTargetsFile)" />
+  <Import Condition="!Exists($(PtvsTargetsFile))" Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

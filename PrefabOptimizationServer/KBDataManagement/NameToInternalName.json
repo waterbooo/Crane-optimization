@@ -1,0 +1,11 @@
+﻿{
+  "revit": {
+    "Room": "Room",
+    "AnalyticalModel": "Steel Analytical Model",
+    "AnalyticalColumn": "Steel Analytical Column",
+    "AnalyticalBeam": "Steel Analytical Beam",
+    "CurtainWall": "CurtainWall"
+  },
+  "tekla": { },
+  "advancesteel": {}
+}

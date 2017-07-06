@@ -1,0 +1,208 @@
+﻿{
+  "cranes": [
+    {
+      "remove": [
+        "Plane.001_Plane.000",
+        "Plane_Plane.001"
+      ],
+
+      "metadata": {
+        "baseType": "Crane",
+        "type": "MobileCrane",
+        "brand": "ZXXZ",
+        "craneType": "QY 25K 5- I",
+        "upVector": "Y",
+        "worldPosition": [ 0, -45, -15 ],
+        "scaling": [ 6, 6, 6 ],
+        "overallHeight":3350,
+        "overallLength":12300,
+        "overallWidth":2500,
+        "keys": {
+          "mast": "_00trussarray_008_Cylinder.011",
+          "jib": {
+            "id": "_00trussarray_007_Cylinder.010",
+            "luffing": false
+          },
+          "hook": "Cube.001_Cube.002",
+          "trolley": "Cylinder",
+          "ropes": [
+            "Cylinder_023.002_Cylinder.003",
+            "Cylinder_023.001_Cylinder.002"
+          ]
+        },
+
+        "specifications": {
+          "units": "metric-degree",
+          "limitations": {
+            "max-capacity": 25000,
+            "max-hook-height": 39.2,
+            "max-hook-radius": 32,
+            "boomConfig-capacity": {
+              "10.4": {
+                "workingRadius": [3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7  ,8 ],
+                "capacity": [25000, 25000, 24200, 21800, 19100, 17300, 15800, 13800, 12200, 11000 ],
+                "height": [ 10.5, 10.2, 10.0, 9.6, 9.3, 8.8, 8.4, 7.8, 7.2, 5.5 ],
+                "minBoomAngle": 28,
+                "maxBoomAngle": 68
+
+              },
+              "14.0": {
+                "workingRadius": [ 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 8, 9, 10, 11 ],
+                "capacity": [ 22000, 21500, 21000, 20600, 19200, 17800, 16100, 14100, 12800, 11000, 9080, 7430, 6220 ],
+                "height": [ 14.4, 14.2, 14.0, 13.8, 13.6, 13.3, 13.0, 12.7, 12.3, 11.5, 10.5, 9.3, 7.7 ],
+                "minBoomAngle": 31,
+                "maxBoomAngle": 74
+              },
+              "39.5": {
+                "workingRadius": [ 9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 24, 26 ],
+                "capacity": [ 5500, 5100, 4700, 4350, 4020, 3800, 3510, 3400, 2880, 2400, 1900, 1500, 1150 ],
+                "height": [ 39.2, 38.9, 38.6, 38.3, 37.9, 37.5, 37.0, 36.6, 35.5, 34.3, 32.9, 31.3, 29.5 ],
+                "minBoomAngle": 35,
+                "maxBoomAngle": 78
+              },
+              "100": {
+                "workingRadius": [30, 35, 45, 55, 65, 75, 85, 95 ],
+                "capacity": [5500, 5100, 4700, 4350, 4020, 3800, 3510, 3400 ],
+                "height": [ 39.2,38.9, 38.6, 38.3, 37.9, 37.5, 37.0, 36.6 ],
+                "minBoomAngle": 35,
+                "maxBoomAngle": 78
+              }
+            }
+          },
+
+          "speeds": {
+            "boomLength": {
+              "speed": 0.27
+
+            },
+
+            "boomAngle": {
+              "speed": 0.6
+
+            },
+
+            "slew": {
+              "speed": 2.5
+
+            },
+
+            "hook": {
+              "speed": 2
+              
+            }
+          }
+        }
+      }
+    }
+  ],
+  "modelData": [
+    {
+      "BarType": 1,
+      "StartPoint": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "EndPoint": {
+        "X": 50.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "2" ],
+      "Id": "1",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "CenterPoint": {
+        "X": 25.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 1,
+      "StartPoint": {
+        "X": 50.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "EndPoint": {
+        "X": 50.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "3" ],
+      "Id": "2",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "CenterPoint": {
+        "X": 50.0,
+        "Y": 25.0,
+        "Z": 50.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 1,
+      "StartPoint": {
+        "X": 0.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "EndPoint": {
+        "X": 50.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "4" ],
+      "Id": "3",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "CenterPoint": {
+        "X": 25.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "AssemblyNumber": 0
+
+    },
+    {
+      "BarType": 1,
+      "StartPoint": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 50.0
+      },
+      "EndPoint": {
+        "X": 0.0,
+        "Y": 50.0,
+        "Z": 50.0
+      },
+      "WeightPerFt": 60.0,
+      "Length": 50.0,
+      "ConnectedBars": [ "1" ],
+      "Id": "4",
+      "ObjectType": "Bar",
+      "Weight": 3000.0,
+      "GroupedElements": [ ],
+      "CenterPoint": {
+        "X": 0.0,
+        "Y": 25.0,
+        "Z": 50.0
+      },
+      "AssemblyNumber": 0
+
+    }
+  ]
+}

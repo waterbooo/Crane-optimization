@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="Tests\cranepos_one_small_square.py::Test_cranepos_one_small_model::test_small_rectangle" /><Add Test="Tests\cranepos_one_small_square.py::Test_cranepos_one_small_model::test_small_square" /></Playlist>

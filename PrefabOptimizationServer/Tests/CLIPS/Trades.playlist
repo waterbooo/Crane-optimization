@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="Tests\TestLoadingFlow.py::Test_TestLoadingFlow::test_get_trades_smoke" /><Add Test="Tests\TestLoadingFlow.py::Test_TestLoadingFlow::test_mapping_of_names" /></Playlist>

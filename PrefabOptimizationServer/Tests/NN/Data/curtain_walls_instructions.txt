@@ -1,0 +1,358 @@
+Move and stack boxes with proper support to prevent distortion.
+If rain exposure, condensation or any water contact is likely, then all packaging material should be removed.
+All materials should be checked for quantity and quality upon receipt.
+Aluflam must be contacted immediately of any discrepancies in shipment.
+Check to make sure that you have the required supplies and tools necessary for the installation.
+Carefully check the openings and surrounding construction that will receive your material.
+Remember, if the construction is not per the construction documents, it is your responsibility to notify the general contractor in writing.
+Any discrepancies must be brought to the general contractor’s attention before you proceed with the installation.
+Collect your shop drawings, materials, packing list, and this installation manual.
+Carefully review parts location, the sequence of installation, when you glaze it, and how you seal it.
+Consult Aluflam prior to substituting any material to ensure that the products’ fire ratings are not violated.
+Remember to isolate, in an approved manner, all aluminum from uncured masonry or other incompatible materials.
+If any questions arise concerning Aluflam products or their installation, contact Aluflam for clarification before proceeding.
+Take the extra time to wrap and protect the installed material.
+Concrete, mortar, plaster, muriatic acid and other alkaline and acid based construction and cleaning materials may be very harmful to framefinishes and should be removed with water and mild soap immediately or permanent damage or staining of the finishes may occur.
+All work must start from, and be referenced to benchmarks, offset lines and/or column centerlines established by the architectural drawings and the general contractor.
+All frames must be installed plumb, square, level and true, and in accordance with approved shop drawings.
+DETERMINE FRAME REFERENCE POINT
+Establish the frame reference lines or the exterior/interior plane of the frames to be installed using either bench marks, offset lines, or column centerlines provided by the general contractor and referenced on the shop drawings.
+Use the established reference points to determine the installation points for each frame opening at the head, and jambs.
+UNPACK FRAME
+Remove loose components, such as pressure plates, glass clips, intumescent strips, gaskets, covers, fasteners, etc, and set aside in a well protected area.
+Carefully lift frame out of packaging.
+Handle the frame with extreme care to avoid separation of corner joints.
+In the case of attached, multiple frame sections – assemble the frame sections into larger units prior to installing into the wall opening(see example).
+Lay out all frames to be attached on a smooth, dry surface.
+Ensure that frames are well protected from abrasion and impact.
+Slide horizontal members onto “T” brackets and secure joints through factory pre-drilled holes. 
+For exterior applications, follow instructions below:
+Apply CRL Clear 33S Silicone Sealant or equivalent, to surfaces as shown in Figure 1 and 2 below:
+Slide horizontal members onto “T” brackets as shown in Figure 3.
+Secure joints through factory pre-drilled holes as shown in Figure 4:
+Wipe of excess silicone as needed.
+Cut vertical and horizontal gaskets to length.
+Apply CRL Clear 33S Silicone Sealant or equivalent, in corner where the gaskets connect as shown below in Figure 5 and 6.
+Install the frame plumb, square, level and true.
+Measure the size of the frame and ensure that it meets the dimensions referenced on the shop drawing.
+Anchor the frame to surrounding fire-rated structure using structurally sound anchoring method (perimeter bolting, bolted to steel channels, etc.)
+Ensure that frame dimensions have not changed.
+PREPARE FOR GLAZING
+Inspect the factory installed gaskets in the frame opening and make sure it hasn’t shifted during installation.
+Make sure intumescent band does not cover the stainless steel setting blocks.
+If needed, cut the band.
+Place insulating spacers on top of setting blocks.
+Make sure that proper tools and lifting capacity is available prior to opening glass crate.
+Avoid impact with any metal objects and avoid setting the glass down directly onto floor.
+Use wood strips or other suitable material for setting down the glass section prior to installation.
+Center the glass in the frame opening and carefully set the unit down onto the setting blocks.
+While supporting glass in place, secure it by fastening stainless steel glass clips at pre-drilled locations. 
+Attach pressure plates at pre-drilled locations.
+Snap on covers.
+For exterior applications, follow instructions below:
+Apply CRL Clear 33S Silicone Sealant or equivalent into pre-drilled holes for glass clips. 
+Fill gaps around frame with mineral wool insulating material.
+Pack as tightly as possible.
+Finish gaps by applying a continuous bead of silicone caulking. Use 3M Fire Barrier Sealant CP 25WB or equivalent.
+Clean glass units using mild glass cleaner.
+For further information, refer to Vetrotech’s glass cleaning and maintenance instructions.
+Because each project will have differing conditions, each project should have job specific drawings prepared by journeymen drafters or engineers who are familiar with curtain-wall construction and have an intimate understanding of PRL’s curtain wall system and how to integrate it into the construction details specific to the project it is being used on.
+When in doubt contact your PRL technical representative.
+Engineering calculations and shop drawing review should be performed by a professional engineer.
+Coordinate with your sealant supplier to be sure you are using the correct sealants.
+Coordinate with the sealant supplier to be sure of compatibility and adhesion with all curtain wall and building components.
+Have your sealant supplier test for compatibility and adhesion with all curtain wall and building components on each project you perform and give you a written report stating that all materials conform.
+In each case you must fully clean the surface that the caulking is to adhere to.
+It is not always necessary to follow these instructions in the exact order we have suggested but you should be familiar enough with the construction of PRL’s curtain wall should you decide to deviate and specify an alternate order of fabrication and assembly.
+When in doubt contact your PRL technical representative.
+Isolate and separate aluminum products from steel, masonry and cementitious materials.
+Check all shipments from PRL immediately upon receipt thereof.
+Check for damage, count and quality.
+Inform your PRL service representative immediately of errors, omissions, questionable quality or damage.
+Check for latest bulletins and publications.
+If in doubt of any item or procedure contact your PRL technical representative.
+Remove legs for mullion at jamb condition
+Anchors at floor slabs will be custom for each project & should be detailed by a structural engineer
+Prep horizontal with oversize hole to align with anchor fastener location
+Place finished anchor into mullion
+Apply liberal amount of sealant
+Install shear block cw-305 for open back horizontal with 2 #10 x 3/4 sheet metal screw 
+Install shear block cw-301 for hollow horizontal with 2 #10 x 3/4 sheet metal screw 
+Apply liberal amounts of caulking to front of mullion where horizontals will locate
+Install horizontals onto shear block.
+Clamp into place & insure front faces are flush with vertical front faces.
+Attach open back horizontals with 2 - #10 x 3/4 sheet metal screws.
+Attach hollow back horizontals with 2 - #10 x 1 flat head sheet metal screws.
+Depending on accuracy of cut & installation you may need to add an additional #10 x 3/4 sheet metal screw at the rear horizontal surface to keep the back joint looking good
+Add more sealant & tool if previous sealant appears to have been insufficient .
+Apply liberal amounts of sealant to area shown.
+Open back or tubular back horizontal
+Push end plug #999VY07 into sealant & tool caulking to provide a water tight seal between upper part of horizontal & vertical.
+Add more sealant & tool if necessary
+Attach splice sleeve joint tube (cw-650,750-1050 as applicable) to the lower horizontal with 4 - #10 x 1” sheet metal screws
+Consult your structural engineer.
+Pack suitable & sealant compatible backer rod into upper & lower voids of mullion to splice sleeve.
+Ensure to push down 1/4” beyond level of joint
+Apply bond braker tape to area shown
+All field welding must be done in accordance with AISC guidelines. 
+All aluminum and glass should be shielded from field welding to avoid damage from weld splatter. 
+Coordinate protection of installed work with general contractor and/or other trades.
+Coordinate sequence of other trades which affect framing installation with the general contractor (e.g. fire proofing, back up walls, partitions, ceilings, mechanical ducts, HVAC, etc.).
+General contractor should furnish and guarantee bench marks, offset lines and opening dimensions. 
+These items should be checked for accuracy before proceeding with erection. 
+Make certain that all adjacent substrate construction is in accordance with the contract documents and/or approved shop drawings. 
+If not, notify the general contractor in writing before proceeding with installation because this could constitute acceptance of adjacent substrate construction by others.
+Isolate all aluminum to be placed directly in contact with masonry or other incompatible materials with a heavy coat of zinc chromate or bituminous paint. 
+All sealants must be used in strict accordance with the manufacturer’s instructions and applied only by trained personnel to surfaces that have been properly prepared.
+Sealant must be compatible with all materials with which they have contact, including other sealant surfaces.
+Consult the sealant manufacturer for recommendations relative to shelf life, compatibility, cleaning of substrate, priming, tooling adhesion, etc. 
+Drainage gutters and weep holes must be kept clean at all times. 
+Refer to final distribution drawings for joint sizes. 
+Consult the sealant manufacturer for proper sizing of joints.
+After sealant is set and a representative amount of the wall has been glazed (500 square feet or more), run a water hose test to check installation. 
+On large projects, a hose test should be repeated during glazing operation. 
+This testing should be conducted in accordance with AAMA 501.2 specifications.
+Cleaning of exposed aluminum surfaces should be done per AAMA recommendations.
+Care must be taken when assembling aluminum framing components. 
+Check www.tubeliteinc.com for any installation instruction updates.
+Make sure the opening is square and the caulk joints are 1/2” minimum around the frame.
+Ensure surfaces that will be sealed are free of contaminants that can lead to adhesion issues.
+Check that all weeps and baffles (if required) conform to the locations and sizes called out in these instructions.
+Check installation against instructions to ensure conformity.
+Apply sealant between all corner gasket joints.
+Glass bites must be equal on all sides.
+Double check anchor size and location against installation instructions or approved shop drawings.
+Ensure pressure plate fasteners are torqued to 30-40 in-lbs.
+Conditions must be approved by engineer calculations.
+Refer to approved shop drawings for specific guidance on splicing and anchoring.
+For interior dry glazing option, which is available based upon design pressures and glass make up, contact Tubelite.
+Refer to approved shop drawings for job specific applications.
+Refer to approved shop drawings for anchor bolt type and quantity
+Refer to approved shop drawings for actual anchoring requirements.
+Determine Frame Size
+Make sure the opening is square and plumb. 
+Measure each diagonal of the opening. 
+SEE Fig. 17.1.
+Measure the width of the opening (Rough Opening) at the top, middle and bottom. 
+Select the smallest of these dimensions and subtract the left and right caulk joint width per approved shop drawing (1/2” minimum caulk joint at jambs). 
+SEE Fig. 17.2.
+Allow a larger clearance to accommodate building tolerances, an out-of-square opening, anticipated thermal expansion within the unit or as required by shop drawings.
+Measure the height of the opening (Rough Opening) at several points along the entire width of the opening. 
+Select the smallest of these dimensions and subtract 1” to allow a minimum of ½” at sill and head for shim and caulking. 
+SEE Fig. 17.3.
+Allow a larger clearance to accommodate building tolerances, an out-of-square opening, anticipated thermal expansion within the unit or as required by shop drawings.
+Cut Materials to Size
+Align with marked top of horizontal location
+Drill vertical members for horizontal shear block attachment.
+Drill Holes in Vertical Members for Shear Blocks
+Drill .201” diameter pilot holes for #14 screws in the vertical members. 
+Use the P2091FB drill fixture to locate these holes on captured verticals.
+Mark top of horizontal location Mullions at entrances run to finished floor CAPTURED HORIZONTALS on CAPTURED VERTICALS
+Drill exterior flange at each end of horizontal as shown.
+Drill Holes in Horizontal for Attachment to Shear Blocks
+Drill (2) .201” diameter clearance holes for #10 screws in the horizontal sections for attachment to the shear blocks. 
+Use the P2091FB drill fixture to locate holes. See Fig. 20.1.
+Drill and countersink top and bottom of each end of horizontals as shown in Fig. 20.2.
+Drill horizontal members at top and bottom of each end for attachment to horizontal shear block.
+Drill Weep Holes in Horizontal Pressure Plates
+Drill three ¼” diameter weep holes per horizontal pressure plate, one at the midpoint and one at 1/8 points at each end. Locate the holes on the V-groove above the center line of the pressure plate.
+Pressure plates are factory punched on center for pressure plate screws. Drill additional hole(s) as required to ensure a maximum of 2” from the ends of the plates.
+Notch Heads and Sills to Clear Shear Clips
+Fabricate Weep Slots in Horizontal Face Covers
+Fabricate a ¼” x ½” weep slot on the bottom of each horizontal face cover a maximum of 1” from each end of the cover.
+Fabricate notching of anchor leg to clear ‘T’ and ‘F’ vertical anchors as shown in Fig. 23.2.
+Also see optional method shown on page 24.
+See approved shop drawings for fastener location, size, type and spacing
+Cut to DLO minus 2".
+Notch to edge of leg
+Anchor hole as described in approved shop drawings
+See approved shop drawings for fastener location, size, type and spacing
+Fabricate F-Clip Perimeter Anchor
+Cut and fabricate to fit between ‘T’ and ‘F’ vertical anchors as shown in Fig. 24.1.
+Install Steel Reinforcement As Required
+Refer to approved shop drawings to determine where steel reinforcing may be required.
+Steel should be installed prior to the attachment of shear blocks.
+Steel should be sized to stop short of the top and bottom of the vertical for clearance.
+Locate and prep for attachment of the steel located under the horizontal shear blocks if possible.
+Anchor the steel to the vertical using fasteners and spacing per approved shop drawings (not supplied by Tubelite).
+See approved shop drawing for requirments.
+See approved shop drawing for requirments.
+Drill and tap for fastener as required. 
+Countersink for Flat Head screw.
+Drill and tap for fastener as required. 
+Countersink for Flat Head screw.
+Fasten Shear Blocks
+Fasten the shear blocks for tubular horizontals to the verticals using (3) S139 fasteners.
+If steel reinforcement is required, it must be installed prior to shear block attachment.
+Install Head or Sill F and T Anchors
+Fasten a shear block to the vertical mullion using S139 screws at the head or sill in place of an anchor clip. 
+Refer to Step 9 for shear block installation.
+Use tape to hold anchor in place during shipping.
+Check D.L.O. and diagonal dimensions every four bays to ensure correct spacing and frame squareness.
+Install vertical mullions plumb and level, shimming between the bottom of the vertical and T or F anchor for proper deadload distribution.
+Anchor Top F anchor to building per approved shop drawings.
+Do not shim the top of the vertical to allow for thermal and liveload movement.
+Install lower vertical mullion plumb and level, shimming between the bottom of the vertical and T or F anchor for proper deadload distribution.
+Anchor T or F anchor to building per approved shop drawings.
+At the mid-span anchor, temp the vertical in place plumb and level. 
+Check joint at the mullion splice and use a shim to hold joint at the correct size.
+When the entire frame is installed and securely anchored to the mid-span anchor(s), remove shims from the vertical mullion splices and back off nut 1/4 turn at all windload anchor connections and stake the bolts. 
+Be sure any temporary screws are removed from windload anchors.
+Refer to Step 12, page 27 to complete the splice sleeve installation.
+Shim between anchor and mullion AT SILL ONLY to required caulk space height (1/2" min.)
+Fasten anchor to substrate with bolts as described in approved shop drawings.
+Splice Sleeve Attachment
+Consult approved shop drawings for number and size of fasteners required to attach the splice sleeve to the verticals.
+Drill holes on both sides of the lower vertical in the locations shown on the approved shop drawings.
+Slide the splice sleeve into the upper vertical mullion. 
+Tape the sleeve into position temporarily until verticals are erected. 
+See Fig. 29.2.
+After the lower and upper verticals are erected, remove the tape holding the splice sleeve and slide into place, securing to the lower mullion as shown on approved shop drawings. 
+See Fig. 29.3.
+Apply bond breaker tape to the face of the splice sleeve between the lower and upper verticals, returning back 1” on each side.
+Apply sealant over bond breaker tape at joint. 
+See Fig. 29.4.
+Install (1) S191 screw on back of mullion to stop splice in proper position.
+Slide splice sleeve assembly into bottom of upper mullion and tape in place.
+Attach Horizontals to Shear Blocks and Anchor Clips
+Insert a P1094 ethafoam rod into the void of the tongue of the horizontal members, pushing it about 1/8” past flush to allow room for sealant. 
+See Fig. 30.1.
+Seal shear block prior to installing the horizontal member. 
+See Fig. 30.2.
+Seal the ends of the horizontal back member and attach to the shear block using S270 screws. 
+Seal the heads of the screws.
+Tool sealant at the horizontal/vertical intersection. 
+See Fig. 35.3.
+Cap seal screw heads 
+Secure horizontal to clip with (2) S270 screws.
+Tool excess sealant
+Apply sealant to exterior joint of shear block and mullion proior to installing horizontal
+Apply sealant to each end of horizontal
+See Step 9 for shear block attachment.
+Attach Horizontals to Shear Blocks and Anchor Clips (Continued)
+Rip-off legs flush to screw splines as shown.
+MODIFY SHEAR BLOCK
+Apply sealant to exterior joint of shear block and mullion
+Secure horizontal proior to installing horizontal to clip with (2) S270 screws.
+Apply and tool sealant at each end of installed horizontal as shown in Fig. 28.1 - 28.3.
+Seal the end of the horizontal member across the vertical member, including the P1094 ethafoam rod in the tongue of the horizontal. 
+Push the PTB193 water dam into the void between the horizontal member and the vertical tongue. 
+Seal over the top of the PTB193 onto the horizontal tongue, damming the end of the horizontals.
+For vertical SSG applications, follow the same sealing procedures as with a captured system noted above. 
+See Fig. 32.2.
+Apply sealant to the three (3) contact surfaces that receive water dam
+Seal Perimeter of Installation
+Insert backer rod into the gap between the building substrate and curtain wall frame.
+Apply sealant around the perimeter of the frame and tool the sealant.
+See Fig. 33.1 and Fig. 33.2.
+Exterior and Interior perimeter seals must run continuous full perimeter of framing.
+Remove any debris from the glazing pockets.
+Trim excess silicone from edges of glazing units to allow for maximum glazing clearance.
+Refer to our online System Glazing Chart for a full list of glazing size options for this system:
+Install Gaskets
+Crowd gaskets toward the center of the member during installation to avoid gaps caused by relaxation of the gasket material.
+Install PTB28 gasket into vertical and horizontal pressure plates. 
+See Fig. 34.1.
+Crowd excess gasket length toward the middle of pressure bar extrusion.
+Press gaskets into reglets 
+See page 18 for gasket cut lengths
+Peal protective strip form one side of spacers (by others) and press into place on pressure bar.
+Align edge of spacer (by others) with heal of glazing gasket full length of pressure bar.
+Press 1/8" x 1/4" spacers into place (Spacers not by Tubelite)
+Press gaskets into reglets and crowd excess gasket length toward the middle of extrusion.
+Modify by removing web from between gasket halves
+Install spacer (by others) into vertical mullions. 
+Install spacer (by others) into the horizontals.
+nstall PTB94 isolator gasket into vertical and horizontal tongues. 
+Run the isolator through the vertical splice joints.
+Install two P6550 setting blocks for 1” glass at quarter points or as indicated on approved shop drawings.
+Consult glass manufacturer for correct length and location for glass size over 40 sq.ft.
+Install glass onto setting blocks, positioning glass for proper glass bite into vertical mullions. 
+Make sure the glass is firmly against interior gaskets before installing temporary glazing clips or pressure plates.
+Locate at quarter points or as directed in approved shop drawings
+Hold the glass in place using P1195 temporary glazing clips. 
+Locate clips near each corner of the glass and at mid points. 
+Torque temporary glass retainer bolts to 30 inch pounds.
+Do not over torque.
+For interior dry glazing option, which is available based upon design pressures and glass make up, contact Tubelite.
+Tape off side of SSG vertical and glass prior to applying structural silicone. 
+After structural silicone has cured per silicone manufacturer’s recommendations, remove P1195 temporary glazing clips, seal hole in the SSG vertical from the P1195 screw and apply a weatherseal between the lites of glass.
+Trim edges of structural silicone area with masking tape for clean lines. 
+Apply silicone and tool.
+Ensure silicone is injected into voids at horizontal and vertical intersection.
+Seal holes from temporary glass retainer then apply weather seal.
+Install Pressure Plates and Face Covers
+Remove temporary glazing retainers from verticals as required.
+Vertical pressure plates must be installed first. 
+Prior to installing, apply sealant to the face of each water dam.
+Install the vertical pressure plates using S359 screws.
+Remove temporary glazing retainers from horizontals as required.
+Install the horizontal pressure plates using S359 screws, ensuring that weep holes are on the top side of the pressure plate.
+Ensure there are anchor holes in the pressure plates 2” max from the ends and 2” max from each horizontal/vertical intersection to maintain proper compression on the glass.
+Torque all pressure plate screws to 30 – 40 in-lbs. When using a cordless drill with a torque limiter, check torque periodically against a torque wrench.
+Install the vertical face covers using a wood block to protect the face cover.
+Seal the horizontal pressure plates to the vertical face covers, tooling the sealant into the joint.
+Install the horizontal face covers with equal gaps on each end. 
+Make sure the weep slots in the face cover are pointing down.
+Seal over exposed face Water Dams
+Install vertical pressure bars first.
+Install horizontal pressure bars last.
+Apply sealant into gaps between pressure bars.
+Tool sealant.
+Splice in Pressure Bar when required in long runs.
+Splice at center of mullion.
+Apply sealant to splice joint.
+Install the vertical face covers using a wood block to protect the face cover.
+Seal the horizontal pressure plates to the vertical face covers, tooling the sealant into the joint.
+Install the horizontal face covers with equal gaps on each end. Make sure the weep slots in the face cover are pointing down.
+Match drill pressure plate and back member with a #2 drill bit, attach pressure plate to back member with S359 screw, see Fig. 43.1.
+Seal horizontal pressure bar end gaps, see Fig. 43.2.
+Seal between vertical face cap and horizontal pressure bar
+Stagger mullion, pressure bar and face cap splice joints as shown.
+Splice sleeve assembly
+See Step 13 for mullion splice procedure.
+Peel protective backing from adhesive strip and apply to top of lower face cap as shown.
+Seal screw heads
+Seal splice joint
+Always place horizontal caps with weep hole at bottom side.
+Install horizontal caps between vertical caps
+Install vertical caps first.
+Use wood block and mallet to prevent denting face caps.
+Apply weather seal and tool sealant
+See Fig. 47.1 and Fig. 47.2 for possible anchoring methods.
+Always refer to approved shop drawings for specific requirements.
+Apply sealant around base of mullion and tool prior to subframe installation.
+Apply liberal amount of sealant at interior and exterior of threshold.
+Prep the curtain wall frame with pocket closures or as detailed on approved shop drawings.
+Prior to installing the subframe, lay down a bed of sealant where the threshold will be installed.
+See Fig. 44.2 and Fig. 43.3.
+Install subframe onto curtain wall mullion, shimming equally from side to side. 
+Attach subframe per approved shop drawings. Seal joint between subframe and curtain wall.
+Seal the top of the jamb subframe as shown in Fig. 48.3.
+Attach threshold to building per approved shop drawings.
+Install door per Tubelite’s Entrances and Frames Installation Manual.
+Tool any excess sealant around jambs, header and threshold.
+Fill bottom of jamb pockets with sealant up to and exceeding the threshold height.
+Sealant at base of door jamb assembly 
+Seal full exterior contour of mullion, sub-frame jamb and threshold at intersection with finished floor.
+Sealant should merge with perimeter sealant of adjacent framing.
+Fill jamb pocket at threshold.
+Sealant depth to be flush with top of threshold.
+Install end dams and seals as shown in step 16 on pages 46 and 47.
+Seal interior and exterior shim space.
+Seal intersection of jamb to head joint
+Carefully remove face covers surrounding the lite to be removed.
+Remove vertical and horizontal pressure plates adjacent to affected lite.
+Temp surrounding glass in place with P1195 temporary clips per Step 19, pages 46 through 48.
+Remove lite of glass and gaskets from opening. Clean debris and sealant from the glass pocket and glazing reglets.
+Install new glass in opening per Steps 17 through 19, pages 32 through 40.
+Attach E5TB250FS captured corner adaptor to the back member using “S428” , spaced 18” on center.
+Install horizontals to corner mullion.
+Install water dams as noted in Step 14, pages 30.
+Attach glazing gaskets, spacers and isolator gaskets and seal as noted in steps 18, page 33.
+Install glass, pressure plates and face covers per Steps 19 and 20, pages 35 through 41.
+Attach E5TB67FS captured corner adaptor to the back member using “S427” , spaced 18” on center.
+Install horizontals to corner mullion.
+Install water dams as noted in Step 15, pages 32.
+Install glazing gaskets, spacers and isolator gaskets and seal as noted in steps 18, page 34 and 35.
+Install glass, pressure plates and face covers per Steps 19 and 20, pages 39 through 46.
